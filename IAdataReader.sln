@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IAdataReader", "IAdataReader\IAdataReader.csproj", "{5B17B52F-8A9F-4EFA-AA72-539F48D13672}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5B17B52F-8A9F-4EFA-AA72-539F48D13672}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5B17B52F-8A9F-4EFA-AA72-539F48D13672}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5B17B52F-8A9F-4EFA-AA72-539F48D13672}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5B17B52F-8A9F-4EFA-AA72-539F48D13672}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7A7F8209-B104-4777-93EC-BEFD4B578F43}
+	EndGlobalSection
+EndGlobal

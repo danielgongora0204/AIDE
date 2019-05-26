@@ -1,0 +1,11 @@
+C:\Users\Daniel Gongora\source\repos\IAdataReader\IAdataReader\bin\Debug\netcoreapp2.1\IAdataReader.deps.json
+C:\Users\Daniel Gongora\source\repos\IAdataReader\IAdataReader\bin\Debug\netcoreapp2.1\IAdataReader.runtimeconfig.json
+C:\Users\Daniel Gongora\source\repos\IAdataReader\IAdataReader\bin\Debug\netcoreapp2.1\IAdataReader.runtimeconfig.dev.json
+C:\Users\Daniel Gongora\source\repos\IAdataReader\IAdataReader\bin\Debug\netcoreapp2.1\IAdataReader.dll
+C:\Users\Daniel Gongora\source\repos\IAdataReader\IAdataReader\obj\Debug\netcoreapp2.1\IAdataReader.csprojAssemblyReference.cache
+C:\Users\Daniel Gongora\source\repos\IAdataReader\IAdataReader\obj\Debug\netcoreapp2.1\IAdataReader.csproj.CoreCompileInputs.cache
+C:\Users\Daniel Gongora\source\repos\IAdataReader\IAdataReader\obj\Debug\netcoreapp2.1\IAdataReader.AssemblyInfoInputs.cache
+C:\Users\Daniel Gongora\source\repos\IAdataReader\IAdataReader\obj\Debug\netcoreapp2.1\IAdataReader.AssemblyInfo.cs
+C:\Users\Daniel Gongora\source\repos\IAdataReader\IAdataReader\bin\Debug\netcoreapp2.1\IAdataReader.pdb
+C:\Users\Daniel Gongora\source\repos\IAdataReader\IAdataReader\obj\Debug\netcoreapp2.1\IAdataReader.dll
+C:\Users\Daniel Gongora\source\repos\IAdataReader\IAdataReader\obj\Debug\netcoreapp2.1\IAdataReader.pdb
